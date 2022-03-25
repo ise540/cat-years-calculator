@@ -1,0 +1,19 @@
+{
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "lesson_1",
+  "version": "1.0.0",
+  "description": "human to cat years calculator",
+  "main": "app.js",
+  "keywords": [
+    "node"
+  ],
+  "author": "antonio",
+  "license": "ISC",
+  "dependencies": {
+    "cat-age-calculator": "^1.0.6",
+    "flatpickr": "^4.6.11"
+  }
+}
